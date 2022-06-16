@@ -1,0 +1,70 @@
+CMS_HOST: studio.local.overhang.io
+CMS_OAUTH2_SECRET: sG0PFjfGUDse1RTcnTEZ3Hzn
+CONTACT_EMAIL: contact@local.overhang.io
+DOCKER_IMAGE_OPENEDX: docker.io/ednxops/distro-edunext-edxapp:test-build
+DOCKER_IMAGE_OPENEDX_DEV: docker.io/ednxops/distro-edunext-edxapp-dev:test-build
+EDX_PLATFORM_REPOSITORY: https://github.com/eduNEXT/edunext-platform.git
+EDX_PLATFORM_VERSION: edunext/mango.master
+ENABLE_HTTPS: false
+ID: jNDpxI0VVHyKbSSq5qwWhANL
+JWT_RSA_PRIVATE_KEY: '-----BEGIN RSA PRIVATE KEY-----
+
+  MIIEpAIBAAKCAQEAug4AjxW5bjz+RRUh200XeFtf3OvCARdKKtM743RS56KMAVkz
+
+  lXtvR0U84iwDQRJiWkFSCPzzZMWqdKz3CskhZwLaKTcg1bPX4B5Pe+7BC7Oeq1IX
+
+  Irx33V1+/uT+Rq30/Yf+TDMd7ZQ/VxOfySwQuTGXQJY5l183GGHTX8+rGEYgYj1a
+
+  /hbCJrLZcGljdGc9RZfVklxWAl0t1k3sHRX2yb+3LqC5aQTjFf7A354faQ1WnW0Z
+
+  C79ifQ3yxg3Hhqe7noYkP/gjFJg9rDCaeEDlhiFvzGbZzZ42hMPfPcoFQnDgpYHO
+
+  yj7EU9+5h+ieXqCIqNrnaE0BfGJ3XjqGktxDnwIDAQABAoIBAFHttotLerMzgphz
+
+  HMyQHwSt4AHNg0mtssg26klXwOYlatdxK0jo6PCOaagCz5AJA2xRFUnF8Xvvmwbz
+
+  33lNZjsRQ3Ygw4G3Rxl233NoiHOZrgYtCOkP6wx8jl66Acqn8ZjvGKj/XW9v95Bl
+
+  oNgaYmbakosrW8Lvd7hx431uWh4+ihisrvaSsyVZcRIbEaY7ejn8lY1aDFoXpFIX
+
+  vmS9WSurb13748xn7IGoniwSSE+XvYEfPcyVTznuY+LGMY0k+h4ViZcGO1MmtzX8
+
+  P0+Gct6e/q7m9KVe+RIYY2Ry2hIXssszNlvHTq59qeQcFp54elwaetBWdLG18/Y4
+
+  Y6fLjAkCgYEAxrkL32v76nC7kUao14LeE9TUGXEClvsHlFwlX3SV76QpP+hbiRaZ
+
+  feSGAqkTG3YZk2ztCHjP3bHuXbe9JzJ0mG3zXwlOExtcbhpgsJgJG/JTSWX+kL9S
+
+  FYXzcreP5Bxcmoi7OHt7AA6dBSVk5yX4+Hdy1k4sal1H7NAC+TbdQOsCgYEA7645
+
+  lbpql8Uu0VXCLliM3+gxVjBGUCb+d7n5SC5MpkdIQKLTNfqVinQ2vM4szhZPd5Fc
+
+  osPSOG6kA8mg115jNJ7CccnQNlYFXjad/I9BzIfbjQtDktAd9jYXpsVZUryOIcUd
+
+  gZ8J7hI3JIfKGS896h6BItzj7pylKrS2eboRex0CgYBGlMDnyOW/veyQy8T6Tovs
+
+  BUKUCrR9xYlKo3POtIzwgaD5BuFEDpfTxA/o7/5OWaL53s1NngNOXX0pIjJ3so8A
+
+  +MRg8+AcHzK0FIBVGJrbpzT3s9c3uAxCgsIV86aSwZQOexPsGsd0HLyecEqnYrBM
+
+  J7jM7xUNbjY2oSb9NwRcowKBgQDNnSstdbTH6pLVZrqkw7Zmx2y7wcIwNKOM1nAy
+
+  KfX7l582Q/jpj8UF99iVdFIfoigeLQfJYjBP1SrDTQ+8cu6sT54Du9vxIS6NulEi
+
+  P0t1SP9iKk2X/w4VECaOHTMZtURBWDaN4n/ESsAfiJYpsMtusyiZXeHz61IOJuV7
+
+  29HvSQKBgQCiLmFxThO6ffOS74nn+eXowchxDaCRSwXj0Qnu/4XYDwAWG/Qwrnw2
+
+  nu/H+AUjdx8bavt2POn9N/FdUGhm+6H2cFgyJoeHXAdOtby6vd1AqlOCx8ZLf4zG
+
+  eASJQvHJ/Jels8OFazEqmHHs/6IuFK3jdc8TsNRQWpXkJMnepqsI1w==
+
+  -----END RSA PRIVATE KEY-----'
+LANGUAGE_CODE: en
+LMS_HOST: local.overhang.io
+MYSQL_ROOT_PASSWORD: pPSaheSp
+OPENEDX_MYSQL_PASSWORD: LqFqywTR
+OPENEDX_SECRET_KEY: g83NaCCgnqJoI6vmc68yHvEi
+PLATFORM_NAME: My Open edX
+PLUGINS:
+- mfe
