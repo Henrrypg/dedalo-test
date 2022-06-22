@@ -4,7 +4,7 @@ CONTACT_EMAIL: contact@local.overhang.io
 DOCKER_IMAGE_OPENEDX: docker.io/ednxops/distro-edunext-edxapp:test-build
 DOCKER_IMAGE_OPENEDX_DEV: docker.io/ednxops/distro-edunext-edxapp-dev:test-build
 EDX_PLATFORM_REPOSITORY: https://github.com/eduNEXT/edunext-platform.git
-EDX_PLATFORM_VERSION: edunext/mango.master
+EDX_PLATFORM_VERSION: ednx-release/limonero.master
 ENABLE_HTTPS: false
 ID: jNDpxI0VVHyKbSSq5qwWhANL
 JWT_RSA_PRIVATE_KEY: '-----BEGIN RSA PRIVATE KEY-----
@@ -66,5 +66,3 @@ MYSQL_ROOT_PASSWORD: pPSaheSp
 OPENEDX_MYSQL_PASSWORD: LqFqywTR
 OPENEDX_SECRET_KEY: g83NaCCgnqJoI6vmc68yHvEi
 PLATFORM_NAME: My Open edX
-PLUGINS:
-- mfe
